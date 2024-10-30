@@ -7,24 +7,24 @@
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/AshutoshGoswami24/text-leech-bot",
-    "success_url": "https://t.me/AshutoshGoswami24",
+    "repository": "https://github.com/rawal8437/text-video",
+    "success_url": "https://t.me/tdljoin",
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "16494736",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "2cb7fa5859e2de684e3e10d9c049621a",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "7748473065:AAHShXIW--wIMG0Xu6ZzSeN_5cEzSZQ9_k0",
             "required": true
         },
         "PORT": {
-            "description": "𝘌𝘕𝘛𝘌𝘙 𝘈𝘕𝘠 𝘗𝘖𝘙𝘛 𝘓𝘐𝘒𝘌 8080",
+            "description": "6969",
             "required": true
         }
     },
